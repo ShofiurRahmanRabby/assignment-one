@@ -97,7 +97,7 @@
     padding: 100px 47px 57px 47px;
     margin: 40px 10px 0px 10px;
 }
-/* main part end */
+
 .hotdeal{
     background-color: #e554730d;
     height: 550px;
@@ -147,3 +147,25 @@
     font-weight: 800;
     margin-bottom: 15px;
 }
+.face-text p {
+    color: rgba(23, 0, 0, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.photo-div{
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+}
+.img-box img{
+    width: 295px;
+    height: 340px;
+}
+.img-box{
+    margin-bottom: 120px;
+}
+/* main part end */
+/* last part start */ 
+
+/* last part end */
