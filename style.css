@@ -12,31 +12,58 @@
     justify-content: space-around;
     align-items: center;
     gap: 97px;
-  }
-  .header-sms{
+}
+.header-sms{
     width: 708px;
-  }
-  .title-text{
+}
+.title-text{
     color: #291919;
     font-size: 70px;
     font-weight: 800;
-  }
-  .praghrap{
+}
+.praghrap{
     color: rgba(87, 82, 82, 0.6);
     font-size: 17px;
     font-weight: 390;
     line-height: 25px;
     margin: 30px 0px;
-  }
-  .btn{
+}
+.btn{
+    color: aliceblue;
     border-radius: 8px;
-    background: #3c0310;
-    padding: 20px 43px;
+    background: #0d0003;
+    padding: 25px 45px;
     border: none;
-    cursor: pointer;
-  }
-  .photo{
+    /* cursor: pointer; */
+}
+.photo{
     width: 600px;
     height: 650px;
 
-  }
+}
+/* main part start */
+.main-section{
+    margin: 100px 110px;
+}
+.main-div-container h3{
+    color: #0d0101;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 800;
+}
+.main-div-container p{
+    color: rgba(21, 5, 5, 0.6);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.flower-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    border-radius: 300px 300px 0px 0px;
+    background-color: #d490b126;
+}
