@@ -134,3 +134,16 @@
     height: 350px;
     padding: 100px 150px;
 }
+.facebook-section{
+    margin: 0px 110px;
+}
+.face-text{
+    text-align: center;
+    margin: 100px 0px 50px 0px;
+}
+.face-text h3 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
