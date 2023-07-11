@@ -201,3 +201,38 @@
     margin-right: 7px;
   }
 /* main part end */
+/* footer start */
+footer{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #111010;
+}
+.footer-section{
+    text-align: center;
+}
+.footer-section h3 {
+    color: white;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.flower {
+    color: #e55473;
+}
+.footer-div{
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 25px;
+}
+.all_right {
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 16px;
+    font-weight: 400;
+}
